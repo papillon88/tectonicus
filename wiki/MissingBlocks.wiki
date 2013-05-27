@@ -19,6 +19,7 @@
  * Anvils
  * Mob Heads
  * Item Frames
+ * Corner Stairs
 
 === 1.5 ===
 ----
