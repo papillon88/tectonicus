@@ -1,22 +1,22 @@
 #summary List of all blocks currently missing from Tectonicus.
 
-= Blocks currently missing from Tectonicus =
+== Blocks currently missing from Tectonicus ==
 
-*Levers
-*Paintings
+* Levers
+* Paintings
 
-== 1.3 ==
+=== 1.3 ===
 *Cocoa Pods
 *String
 *Tripwire Hook
 
-== 1.4 ==
+=== 1.4 ===
 *Beacons
 *Anvils
 *Mob Heads
 *Item Frames
 
-== 1.5 ==
+=== 1.5 ===
 *Redstone Comparator
 *Multiple snow heights
 *Hopper
