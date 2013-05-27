@@ -9,7 +9,7 @@
 
 === 1.3 ===
 ----
- * Cocoa Pods
+ * ~~Cocoa Pods~~ -Added 5/27/2013
  * String
  * Tripwire Hook
 
