@@ -6,7 +6,7 @@
 ----
  * Levers
  * Paintings
-  * These are not actually blocks, so it may be a lot more work.
+  * These are not actually blocks, so they may be a lot more work to implement.
 
 === 1.3 ===
 ----
