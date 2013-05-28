@@ -27,4 +27,4 @@
  * Redstone Comparator
  * Multiple snow heights
  * Hopper
- * Daylight Sensor
+ * ~~Daylight Sensor~~ -Added 5/28/2013
