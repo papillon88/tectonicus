@@ -20,7 +20,7 @@
  * ~~Anvils~~ -Added 5/27/2013
  * Mob Heads
  * Item Frames
- * Corner Stairs
+ * ~~Corner Stairs~~ -Added 5/29/2013
 
 === 1.5 ===
 ----
