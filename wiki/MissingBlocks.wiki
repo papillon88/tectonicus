@@ -12,7 +12,7 @@
 ----
  * ~~Cocoa Pods~~ -Added 5/27/2013
  * String
- * Tripwire Hook
+ * ~~Tripwire Hook~~ -Added 6/02/2013
 
 === 1.4 ===
 ----
