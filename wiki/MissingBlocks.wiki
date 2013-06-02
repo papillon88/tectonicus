@@ -28,3 +28,11 @@
  * ~~Multiple snow heights~~ -Added 6/01/2013
  * ~~Hopper~~ -Added 6/01/2013
  * ~~Daylight Sensor~~ -Added 5/28/2013
+
+=== 1.6 ===
+----
+ * Stained Clay
+ * Hay Block
+ * Carpet
+ * Hardened Clay
+ * Coal Block
