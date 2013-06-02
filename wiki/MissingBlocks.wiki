@@ -4,7 +4,7 @@
 
 === Pre 1.3 ===
 ----
- * Levers
+ * ~~Levers~~ -Added 6/01/2013
  * Paintings
   * These are not actually blocks, so they may be a lot more work to implement.
 
@@ -24,7 +24,7 @@
 
 === 1.5 ===
 ----
- * Redstone Comparator
- * Multiple snow heights
- * Hopper
+ * ~~Redstone Comparator~~ -Added 6/01/2013
+ * ~~Multiple snow heights~~ -Added 6/01/2013
+ * ~~Hopper~~ -Added 6/01/2013
  * ~~Daylight Sensor~~ -Added 5/28/2013
