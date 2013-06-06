@@ -31,8 +31,8 @@
 
 === 1.6 ===
 ----
- * Stained Clay
- * Hay Block
- * Carpet
- * Hardened Clay
- * Coal Block
+ * ~~Stained Clay~~ -Added 6/06/2013
+ * ~~Hay Block~~ -Added 6/06/2013
+ * ~~Carpet~~ -Added 6/06/2013
+ * ~~Hardened Clay~~ -Added 6/06/2013
+ * ~~Coal Block~~ -Added 6/06/2013
