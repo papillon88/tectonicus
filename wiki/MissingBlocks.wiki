@@ -36,3 +36,11 @@
  * ~~Carpet~~ -Added 6/06/2013
  * ~~Hardened Clay~~ -Added 6/06/2013
  * ~~Coal Block~~ -Added 6/06/2013
+
+=== 1.7 ===
+----
+ * Acacia and Dark Oak logs, planks, slabs, stairs
+ * Stained glass blocks and panes
+ * Podzol
+ * Red sand
+ * New flowers, tall flowers
