@@ -39,8 +39,12 @@
 
 === 1.7 ===
 ----
- * Acacia and Dark Oak logs, planks, slabs, stairs
- * Stained glass blocks and panes
- * Podzol
- * Red sand
- * New flowers, tall flowers
+ * ~~Acacia and Dark Oak logs, planks, slabs, stairs~~ -Added 11/08/2013
+ * ~~Stained glass blocks~~ -Added 11/08/2013
+ * Stained glass panes still need some work
+ * ~~Podzol~~ -Added 11/08/2013
+ * ~~Red sand~~ -Added 11/08/2013
+ * ~~Packed ice~~ -Added 11/08/2013
+ * ~~New small flowers~~ -Added 11/08/2013
+ * New small flowers in flowerpots
+ * Tall flowers need to be tall
