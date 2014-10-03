@@ -1,0 +1,5 @@
+#summary Downloads
+
+= Introduction =
+
+Downloads have moved to GitHub: https://github.com/tectonicus/tectonicus/releases
